@@ -5,7 +5,12 @@
 
 ## Contents
 
+- [Others](#others)
 - [TypeScript](#typescript)
+
+## Others 
+
+- [sunnyboy-mu/i-nav](https://github.com/sunnyboy-mu/i-nav) - 小沐沐吖的个人书签导航网！
 
 ## TypeScript 
 
