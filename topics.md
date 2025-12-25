@@ -26,6 +26,7 @@
 
 ## others 
 
+- [Loon0x00/Loon4Mac](https://github.com/Loon0x00/Loon4Mac) - Loon for Mac
 - [sunnyboy-mu/i-nav](https://github.com/sunnyboy-mu/i-nav) - 小沐沐吖的个人书签导航网！
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 
