@@ -77,7 +77,6 @@
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [react-component/tree](https://github.com/react-component/tree) - React Tree
 - [Loon0x00/Loon4Mac](https://github.com/Loon0x00/Loon4Mac) - Loon for Mac
-- [muov/i-nav](https://github.com/muov/i-nav) - 小沐沐吖的个人书签导航网！
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 
 ## python 
