@@ -70,7 +70,7 @@
 ## others 
 
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-- [react-component/tree](https://github.com/react-component/tree) - React Tree
+- [react-component/tree](https://github.com/react-component/tree) - 🌲 Tree view component for React
 - [Loon0x00/Loon4Mac](https://github.com/Loon0x00/Loon4Mac) - Loon for Mac
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 
