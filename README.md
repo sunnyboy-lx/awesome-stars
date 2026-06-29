@@ -24,7 +24,7 @@
 
 ## TypeScript 
 
-- [react-component/tree](https://github.com/react-component/tree) - 🌲 Tree view component for React
+- [react-component/tree](https://github.com/react-component/tree) - 🌳 Accessible tree view primitives for React, maintained in the Ant Design ecosystem.
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
