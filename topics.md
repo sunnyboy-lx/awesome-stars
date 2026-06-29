@@ -19,6 +19,7 @@
 - [others](#others)
 - [python](#python)
 - [rag](#rag)
+- [react](#react)
 - [tailwindcss](#tailwindcss)
 - [typescript](#typescript)
 - [vue](#vue)
@@ -49,6 +50,7 @@
 
 ## javascript 
 
+- [react-component/tree](https://github.com/react-component/tree) - 🌳 Accessible tree view primitives for React, maintained in the Ant Design ecosystem.
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 
 ## llm 
@@ -70,7 +72,6 @@
 ## others 
 
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-- [react-component/tree](https://github.com/react-component/tree) - 🌲 Tree view component for React
 - [Loon0x00/Loon4Mac](https://github.com/Loon0x00/Loon4Mac) - Loon for Mac
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 
@@ -81,6 +82,10 @@
 ## rag 
 
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu
+
+## react 
+
+- [react-component/tree](https://github.com/react-component/tree) - 🌳 Accessible tree view primitives for React, maintained in the Ant Design ecosystem.
 
 ## tailwindcss 
 
